@@ -54,8 +54,3 @@ All end points are in the screenshoot folder
 
 ---
 
-## ✅ Conclusion
-
-This project demonstrates how to build a RESTful API using Spring Boot with full CRUD operations and search functionality.
-
-It shows how Controller, Service, and Repository layers work together in a real-world backend application.
